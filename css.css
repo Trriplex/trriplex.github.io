@@ -1,0 +1,25 @@
+body {
+	background-color: #282828;
+	font-family: 'Times New Roman';
+	color: #ebdbb2;
+}
+
+h1 {
+	font-size: 30pt;
+}
+
+p, ul {
+	font-size: 18pt;
+}
+
+main > * {
+	margin-left: 20%;
+}
+
+a:link {
+	color: #83a598;
+}
+
+a:visited {
+	color: #d3869b;
+}
